@@ -9,6 +9,12 @@ A high-performance Machine Learning application designed to identify semanticall
 
 ---
 
+## 🚀 Live Demo
+
+Check out the live application here: [**Quora Duplicate Question Detector**](https://tejasd-13-quora-duplicate-question-detection-app-x5hrti.streamlit.app/)
+
+---
+
 ## 🌟 Key Features
 
 - **Semantic Analysis**: Goes beyond keyword matching to understand the intent of the questions.
